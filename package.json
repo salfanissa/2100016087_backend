@@ -1,0 +1,25 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Projek Tekweb Lanjut",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "Salfanissa",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/salfanissa/2100016087_twl_backend.git"
+  },
+  "bugs": {
+    "url": "https://github.com/salfanissa/2100016087_twl_backend/issues"
+  },
+  "homepage": "https://github.com/salfanissa/2100016087_twl_backend#readme"
+}
